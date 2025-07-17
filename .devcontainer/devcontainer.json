@@ -1,0 +1,17 @@
+{
+  "name": "Universal Telegram Bot",
+  "dockerFile": "Dockerfile",
+  "forwardPorts": [8080],
+  "postCreateCommand": "bash run.sh",
+  "customizations": {
+    "codespaces": {
+      "idleTimeout": "30m"
+    },
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "charliermarsh.ruff"
+      ]
+    }
+  }
+}
