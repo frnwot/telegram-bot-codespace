@@ -1,6 +1,6 @@
 Here's a **complete, all-in-one README.md** with installation, usage, customization, and deployment instructions - ready to copy/paste into your repository:
 
-```markdown
+
 # 🤖 24/7 Telegram Bot in GitHub Codespaces
 
 [![GitHub Codespaces](https://img.shields.io/badge/GitHub-Codespaces-blue?logo=github)](https://github.com/features/codespaces)
@@ -19,7 +19,7 @@ A complete template for deploying **any Telegram bot** with 24/7 uptime using Gi
 ### Method B: Manual Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/telegram-bot-template.git
+git clone https://github.com/frnwot/telegram-bot-codespace.git
 cd telegram-bot-template
 
 # Set up environment
